@@ -2,8 +2,8 @@
 
 **`Desenvolvedor Front`**
 
-Me chamo Eduardo, tenho 25 anos e moro em Roraima. Finalizei meu tecnologo em analise e Desenvolvimento de Sistema na Claretiao e atualmente 20/08/2025 estou cursando Pós em Gestäo de tecnologia da Informaçäo na Uninter.
-Foco inicial Front pois sou girinino.
+Me chamo Eduardo, tenho 25 anos e moro em Roraima. Sou formado em Análise e Desenvolvimento de Sistema e estou cursando Pós em Gestäo de tecnologia da Informaçäo na Uninter.
+Meu foco inicial é no Front pois sou girinino, estou criandos alguns projetos pois a pratica leva a perfeiçäo vlw ╰(*°▽°*)╯.
 
 ---
 
